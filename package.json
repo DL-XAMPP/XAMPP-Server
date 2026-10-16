@@ -1,0 +1,6 @@
+{
+  "name": "xampp",
+  "private": true,
+  "license": "SEE LICENSE",
+  "description": "Local Apache, MariaDB, and PHP stack for site testing."
+}
